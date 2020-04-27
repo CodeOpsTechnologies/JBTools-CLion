@@ -6,7 +6,7 @@
 
 >  [CLion](https://www.jetbrains.com/clion) is a cross-platform C/C++ IDE for Linux, OS X, and Windows. CLion includes such features as a smart editor, code generation, code quality assurance, automated refactorings, on-the-fly code analysis, project manager, integrated version control systems and debugger.
 
-### AppCode Learning Resources
+### CLion Learning Resources
 1. [CLion Quick Tour](https://www.youtube.com/watch?v=Srnw1dI1iAA&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=2&t=5s)
 2. [Can you make me productive with a C++ IDE?](https://www.youtube.com/watch?v=Bt0sZNhXW7k&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=2)
 3. [CLion: A Modern C++ IDE](https://www.youtube.com/watch?v=eqQCl3PAr7U&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=3)
